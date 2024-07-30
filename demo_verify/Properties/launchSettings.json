@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "demo_verify (Package)": {
+      "commandName": "MsixPackage"
+    },
+    "demo_verify (Unpackaged)": {
+      "commandName": "Project"
+    }
+  }
+}

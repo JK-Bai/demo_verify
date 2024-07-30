@@ -1,0 +1,126 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Administrator\\source\\repos\\demo_verify\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2FB035CD-7B55-421A-8D55-A73F30685874}|demo_verify\\demo_verify.csproj|c:\\users\\administrator\\source\\repos\\demo_verify\\demo_verify\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2FB035CD-7B55-421A-8D55-A73F30685874}|demo_verify\\demo_verify.csproj|solutionrelative:demo_verify\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FB035CD-7B55-421A-8D55-A73F30685874}|demo_verify\\demo_verify.csproj|c:\\users\\administrator\\source\\repos\\demo_verify\\demo_verify\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{2FB035CD-7B55-421A-8D55-A73F30685874}|demo_verify\\demo_verify.csproj|solutionrelative:demo_verify\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FB035CD-7B55-421A-8D55-A73F30685874}|demo_verify\\demo_verify.csproj|c:\\users\\administrator\\source\\repos\\demo_verify\\demo_verify\\globalhookhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2FB035CD-7B55-421A-8D55-A73F30685874}|demo_verify\\demo_verify.csproj|solutionrelative:demo_verify\\globalhookhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FB035CD-7B55-421A-8D55-A73F30685874}|demo_verify\\demo_verify.csproj|c:\\users\\administrator\\source\\repos\\demo_verify\\demo_verify\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2FB035CD-7B55-421A-8D55-A73F30685874}|demo_verify\\demo_verify.csproj|solutionrelative:demo_verify\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FB035CD-7B55-421A-8D55-A73F30685874}|demo_verify\\demo_verify.csproj|c:\\users\\administrator\\source\\repos\\demo_verify\\demo_verify\\commandexecutor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2FB035CD-7B55-421A-8D55-A73F30685874}|demo_verify\\demo_verify.csproj|solutionrelative:demo_verify\\commandexecutor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FB035CD-7B55-421A-8D55-A73F30685874}|demo_verify\\demo_verify.csproj|c:\\users\\administrator\\source\\repos\\demo_verify\\demo_verify\\screencapturehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2FB035CD-7B55-421A-8D55-A73F30685874}|demo_verify\\demo_verify.csproj|solutionrelative:demo_verify\\screencapturehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\demo_verify\\demo_verify\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "demo_verify\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\demo_verify\\demo_verify\\MainWindow.xaml.cs",
+              "RelativeToolTip": "demo_verify\\MainWindow.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-30T06:43:39.444Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\demo_verify\\demo_verify\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "demo_verify\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\demo_verify\\demo_verify\\MainWindow.xaml",
+              "RelativeToolTip": "demo_verify\\MainWindow.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvwsAAABRAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-07-30T06:37:01.963Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\demo_verify\\demo_verify\\App.xaml.cs",
+              "RelativeDocumentMoniker": "demo_verify\\App.xaml.cs",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\demo_verify\\demo_verify\\App.xaml.cs",
+              "RelativeToolTip": "demo_verify\\App.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvwcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-30T06:36:37.613Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CommandExecutor.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\demo_verify\\demo_verify\\CommandExecutor.cs",
+              "RelativeDocumentMoniker": "demo_verify\\CommandExecutor.cs",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\demo_verify\\demo_verify\\CommandExecutor.cs",
+              "RelativeToolTip": "demo_verify\\CommandExecutor.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAPEAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-30T06:33:43.09Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GlobalHookHelper.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\demo_verify\\demo_verify\\GlobalHookHelper.cs",
+              "RelativeDocumentMoniker": "demo_verify\\GlobalHookHelper.cs",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\demo_verify\\demo_verify\\GlobalHookHelper.cs",
+              "RelativeToolTip": "demo_verify\\GlobalHookHelper.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-30T06:32:00.118Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ScreenCaptureHelper.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\demo_verify\\demo_verify\\ScreenCaptureHelper.cs",
+              "RelativeDocumentMoniker": "demo_verify\\ScreenCaptureHelper.cs",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\demo_verify\\demo_verify\\ScreenCaptureHelper.cs",
+              "RelativeToolTip": "demo_verify\\ScreenCaptureHelper.cs",
+              "ViewState": "AQIAADwAAAAAAAAAAAAowEgAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-30T06:29:10.316Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
